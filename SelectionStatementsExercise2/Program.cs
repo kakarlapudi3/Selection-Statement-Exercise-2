@@ -29,6 +29,10 @@
                 Console.WriteLine("Math- not my favorite");
                 break;
 
+                default:
+                Console.WriteLine("Coding- my favorite!");
+                break;
+
             }
 
 
